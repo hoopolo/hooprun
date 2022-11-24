@@ -2,8 +2,10 @@
 
  all about me
  
- ## I like :computer: :pizza: and :red_circle:
+ ## I like :computer: :pizza: and :green_circle:
  
 ##### A README.md
 
-## (https://prodigy.com)
+# [prodigy](https://prodigy.com)
+
+### prodigy game for kids
